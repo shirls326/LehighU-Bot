@@ -1,0 +1,4 @@
+Banner: https://go.lehigh.edu/ssb
+Connect (student hub): https://connect.lehigh.edu/#
+To-Do List: https://cf.lehigh.edu/portal5/todolist/
+Portal: https://lehighuadmportal.force.com/portal/
